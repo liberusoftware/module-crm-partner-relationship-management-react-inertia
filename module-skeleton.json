@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-partner-relationship-management-react-inertia",
+  "capabilityKey": "liberusoftware/module-crm-partner-relationship-management",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-crm-partner-relationship-management-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/crm/nextjs/partner-relationship-management.md",
+  "presentationPlan": "projects/crm/react/partner-relationship-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
